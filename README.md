@@ -4,20 +4,20 @@
 ### Ejercicio01
 - Analice el proyecto en el IDE Netbeans llamado Ejercicio01, donde se presenta la solución a la expresión:
 
-`\frac{1 + 2 + 4 + 3}{5} + \sqrt{81}`
-$$\frac{1 + 2 + 4 + 3}{5} + \sqrt{81}$$ 
+> $$\frac{1 + 2 + 4 + 3}{5} + \sqrt{81}$$ 
 
 
 ### Ejercicio02
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio02
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
 
-`10^2 + 10`
+$$10^2 + 10$$
 
 ### Ejercicio03
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio03
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-> ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/ejercicio3.png)
+
+$$
 
 ### Ejercicio04
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio04
