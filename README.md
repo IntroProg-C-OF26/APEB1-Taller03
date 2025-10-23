@@ -5,6 +5,7 @@
 - Analice el proyecto en el IDE Netbeans llamado Ejercicio01, donde se presenta la solución a la expresión:
 
 `\frac{1 + 2 + 4 + 3}{5} + \sqrt{81}`
+$$\frac{1 + 2 + 4 + 3}{5} + \sqrt{81}$$ 
 
 
 ### Ejercicio02
