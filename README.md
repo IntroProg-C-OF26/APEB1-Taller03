@@ -5,7 +5,7 @@
 ---
 - Analice el proyecto en el IDE Netbeans llamado Ejercicio01, donde se presenta la solución a la expresión:
 
-> ## $$\frac{1 + 2 + 4 + 3}{5} + \sqrt{81}$$ 
+> $$\frac{1 + 2 + 4 + 3}{5} + \sqrt{81}$$ 
 
 
 ### Ejercicio02
@@ -13,7 +13,7 @@
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio02
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
 
-> ### $$10^2 + 10$$
+> $$10^2 + 10$$
 
 ### Ejercicio03
 ---
@@ -56,7 +56,7 @@
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio07
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
 
-> $$\left((10 * 9) + 20 - \frac{500}{2} + 3^2 \geq 200\right) \lor (50 \geq 50 - 50 + 51)$$
+> $$\left(\frac{\sqrt{81} + 9}{3} == 9\right) \lor (10 > 1) \land \left(\frac{100}{25} \geq \sqrt{100}\right)$$
 
 > ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/ejercicio7.png)
 
@@ -66,7 +66,7 @@
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio08
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
 
-> $$\left(\frac{\sqrt{81} + 9}{3} == 9\right) \lor (10 > 1) \land \left(\frac{100}{25} + \sqrt{100}\right)$$
+> $$\left((10 * 9) + 20 - \frac{500}{2} + 3^2 \geq 200\right) \lor (50 \geq 50 - 50 + 51)$$
 
 > ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/ejercicio8.png)
 
@@ -76,7 +76,7 @@
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio09
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
 
-> $$\left(\sqrt{25} * 10 \geq 100\right) \land (\text{true}) \lor (\text{false}) \lor \left(\frac{10}{5} \geq 2\right)$$
+> $$\sqrt{81} + \sqrt{25} * 10 \geq 50$$
 
 > ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/ejercicio9.png)
 
@@ -86,6 +86,6 @@
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio10
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
 
-> $$\sqrt{81} + \sqrt{25} * 10 \geq 50$$
+> $$\left(\sqrt{25} * 10 \geq 100\right) \land (\text{true}) \lor (\text{false}) \lor \left(\frac{10}{5} \geq 2\right)$$
 
 > ![](https://raw.githubusercontent.com/IntroProgramacion-P-Oct21-Feb22/taller3/main/imagenes/ejercicio10.png)
